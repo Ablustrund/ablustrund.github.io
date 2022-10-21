@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ablustrund</title>
+    <link>http://Ablustrund.com/categories/</link>
+    <description>Recent content in Categories on Ablustrund</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://Ablustrund.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>碎碎念</title>
+      <link>http://Ablustrund.com/categories/some-words/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://Ablustrund.com/categories/some-words/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CG</title>
+      <link>http://Ablustrund.com/categories/cg/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://Ablustrund.com/categories/cg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>年终总结</title>
+      <link>http://Ablustrund.com/categories/annual-report/</link>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://Ablustrund.com/categories/annual-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>转载</title>
+      <link>http://Ablustrund.com/categories/quote/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://Ablustrund.com/categories/quote/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
