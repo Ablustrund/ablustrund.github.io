@@ -6,7 +6,73 @@
         <description>Recent content on Ablustrund</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://Ablustrund.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://Ablustrund.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>随便说说</title>
+        <link>http://Ablustrund.com/p/20221024/</link>
+        <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://Ablustrund.com/p/20221024/</guid>
+        <description>&lt;p&gt;印象中好久没有更新小窝了，看了下上次更新竟然是五个月前，也就是说我已经拖了快半年了。。
+感觉如果不是服务器快到期了，我可能只有在年末要写年终总结时候想起更新/sad&lt;/p&gt;
+&lt;p&gt;倒也不是懒惰，只是感觉最近的生活十分的平淡，并没有什么好写的。
+周围所有的人和事物都在按部就班的向前推进，
+虽然今年大的就业环境（也可能只是计算机）变得异常艰难且惨烈，
+但是身边的人貌似只是吐槽几句，大部分时间还是该干嘛干嘛，可能大家（包括我）还没有&lt;strong&gt;切身&lt;/strong&gt;意识到以前那种混一混随便进大厂的形势一去不复返了（&lt;/p&gt;
+&lt;p&gt;至于我，本来在九月初踌躇满志地规划者认真刷三个月题，并放弃科研。
+但是最终也只做到了用三分之一的时间刷题（啊就是在摸鱼），但是确实做到了放弃科研（
+感觉不能这样堕落下去了，再这样下去真的要失业了啊。。&lt;/p&gt;
+&lt;p&gt;反正从目前学长学姐们的反馈来看，算法开发岗的面试权重逐渐向着机试迁移，但是也没有降低顶会的要求，用通俗易懂的话来说，就是论文算法两手都要抓，两手都要硬（&lt;/p&gt;
+&lt;style&gt;
+
+.myblock {
+    margin-left: 3%;
+    margin-right: 5%;
+    border-left-style:solid;
+    border-left-width: 4px;
+    border-left-color: #ee7b53;
+    padding: 2% 3% 2% 3%;
+    background-color: rgba(255,255,255,35%);
+}
+&lt;/style&gt;
+&lt;!-- &lt;div class=&#34;myh1&#34;&gt; --&gt;
+&lt;h4 id=&#34;当然在无趣且平淡的九月份中也有一些值得开心的小事&#34;&gt;当然在无趣且平淡的九月份中也有一些值得开心的小事:&lt;/h4&gt;
+&lt;!-- &lt;/div&gt; --&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;比如我年初做的一篇论文终于被 &lt;a class=&#34;link&#34; href=&#34;https://coling2022.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;COLING 2022&lt;/a&gt; 录用了，也实现了人生中第一次在会上做汇报（虽然因为疫情是线上会议/sad）
+要命的是我竟然看错了session的时间，pc chair疯狂让另一个在session中中了论文的复旦学长给我打电话（恰好我们在一个实验室有微信），接到电话后我直接一身冷汗，在3分钟内下载zoom入会，但是在mac上打开
+共享屏幕还需要权限（
+我只能用蹩脚的英文告诉他我没有办法打开共享屏幕然后退出重新登录，然后在没有准备的情况下直接讲论文+回答问题。万幸PC的问题并不难，我能听得懂并且我庆幸他原谅了我的中式英语。
+虽然我第一次汇报很开心，但是体验真的真的紧张刺激（&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;还有我竟然评上了国奖。记得去年年末圣诞节的时候，和实验室同学开玩笑说如果我评上果酱怎么样怎么样。
+但是我一直把这当做吹水，并且申请时候也没有想过自己真的能评上。虽然fducs不太行，但是也有好多巨佬啊。。
+直到评上的那一刻突然感觉还是蛮有成就感的，原来像我这样的非复旦本的也能得到复旦学校的认可（偷偷夸夸自己）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;啊还有在八月份也实现了人生中第一次公费旅游。
+为什么我会想起这件事情？可能这就是白嫖的快乐吧！谢谢老板款待！&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;哦对了，我还要纪念一下我逝去的服务器，把微博搬过来吧（偷懒嘿嘿&lt;/p&gt;
+&lt;div class=&#34;myblock&#34;&gt;
+在收到腾讯云无数个提醒短信后，我终于把blog在服务器过期的最后一天迁移了出来（懒狗了属于是
+思前想后还是妥协了，把域名解析到了免费的github托管上，虽然过去一年间我的服务器还是干了一些奇怪的事情的，比如每天的平安复旦打卡和京东薅羊毛脚本。但是这对于一个贫困打工人来说还是太过奢侈了（好吧其实是懒的搬家
+目前还需要做的就是把发blog的脚本改一改，以及赶紧写一篇博客，再不更新就要被遗忘了，最近要吐槽的事确实有很多，但是事情一件接着一件无论是生活还是实验室还是就业，以至于还没来得及吐槽就进入了下一段循环。
+神奇豆子什么时候熬到头呢
+&lt;/div&gt;
+&lt;p&gt;关于过几天的事情就是，我要搬家了！至于为什么搬家，主要原因还是原来的房子离学校真的是有一点点远，每天通勤时间真的是十分苦恼啊，同样搬来我的微博！&lt;/p&gt;
+&lt;div class=&#34;myblock&#34;&gt;
+搬家倒计时。在神奇豆子的blog搬家后，神奇豆子也要进行一次物理上的搬家。
+已经找好了房子，打算住的离学校再近一点，骑车到实验室只需要不到五分钟了[爱你]
+打算采取蚂蚁搬家的政策，每天往新的地方带一点东西过去，争取月末入住，嘿嘿
+&lt;/div&gt;
+&lt;p&gt;至于其他的事，想起来再补充吧！&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>一个小星星对A-soul近期事件的感想</title>
         <link>http://Ablustrund.com/p/20220510/</link>
         <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
